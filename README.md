@@ -18,3 +18,8 @@ IndramayuCyberTeam
 N.4.F (Not 404 Found)
 Purworejo 6etar
 MBT (Manusia Biasa Team)
+
+# ScreenShot
+
+(Setup)
+![setup](https://user-images.githubusercontent.com/45889833/58339539-0794a900-7e74-11e9-8ccc-254382756b21.png)
